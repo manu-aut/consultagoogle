@@ -5,11 +5,12 @@
 .project
 /build/
 .gradle
-.gitignore
+.gitignore/
+/.gitignore/
 .settings
 .project
-.gradlew
-gradlew.bat
+.gradlew/
+.gradlew.bat/
 /history/
 /gradle/
 /serenity.properties/
